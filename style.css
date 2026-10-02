@@ -361,7 +361,9 @@ h1{ font-size:clamp(2.5rem,11vw,5rem); }
 .social svg {
   width: 24px;
   height: 24px;
-  fill: currentColor;      /* prend la couleur du lien */
+  fill:currentcolor;
+  
+}
 
 @media (max-width: 768px){
   .wrap{
